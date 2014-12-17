@@ -1,14 +1,37 @@
+/* These are the base styles for every page. */
 h1{
 	text-align: centre;
-	font-size: 1.5em;
     background-color: orange;
-	color: #66FFFF;
-    margin: 20px;
-    padding: 40px;
+	color: #66qpFQPF;
+    margin: 0;
+    padding-left: 0;
 	
 }
+
+h2{
+	text-align: left-side;
+    background-color: orange;
+	color: #66qpFFQP;
+    margin: 0;
+    padding: 0;
+}
 body{
-	color: brown; 
-	background-color: #66FFFF
+	color: #66qpFFFF; 
+	background-color: #66FFFF;
+	padding-left: 0;
+	padding: 0;
+}
+
+nav ul {
+	list-style: ;
+	margin: 0;
+	padding: 20px;
+
 	
+}
+
+nav li{
+	display: inline;
+	float: left;
+	padding:5px
 }
